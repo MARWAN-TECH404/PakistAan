@@ -62,7 +62,7 @@ try:
  open('.prox.txt','w').write(prox)
 except Exception as e:
  print('')
-prox=open('.prox.txt','r').read().splitlines()
+prox=open('.prox.py','r').read().splitlines()
 for xd in range(10000):
     a='Nokia'
     b=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
