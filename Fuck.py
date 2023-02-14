@@ -85,7 +85,7 @@ logo= f'''
    ██║   ██║  ██║███████║██║██║  ██║
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
 \033[1;93m=================================
-\033[1;97m Owner  YASUR_X_MARWAN :/
+\033[1;97m Owner  YASiR_X_MARWAN :/
 \033[1;97m GitHub : MARWAN-TECH404 :/
 \033[1;97m Version:\033[1;92m 0.7 \033[1;97m:/
 \033[1;97m Status : Free :/
@@ -95,7 +95,7 @@ logo= f'''
 
 ####@-----Menu-----@####
 def Hxw_Main():
-    os.system("clear")
+    os.system("xdg-open https://wa.me/+923189141630?text=")
     print(logo)
     print(f"{oo(1)}File Cloning")
     print(f"{oo(2)}Pak Random Cloning")
@@ -121,7 +121,7 @@ l = []
 
 ####@-----File-----@####
 def file():
-    os.system("clear")
+    os.system("xdg-open https://youtube.com/channel/UCEvniQzw5VfxGdpTT4RUf3A")
     print(logo)
     if 'gm' in l:
         file = '.Hannan'
